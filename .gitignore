@@ -72,3 +72,21 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Binaries folder
+Binaries/
+
+# Ignore DerivedDataCache folder
+DerivedDataCache/
+
+# Ignore Intermediate folder
+Intermediate/
+
+# Ignore Saved folder
+Saved/
+
+# Ignore Visual Studio files
+.vs/
+
+# Ignore JetBrains IDE files
+.idea/
